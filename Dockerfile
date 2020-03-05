@@ -1,7 +1,7 @@
 FROM centos
 
 
-MAINTAINER hemanth.peddi0@gmail.com
+MAINTAINER vinod9589@gmail.com
 
 RUN mkdir /opt/tomcat/
 RUN yum -y install wget
